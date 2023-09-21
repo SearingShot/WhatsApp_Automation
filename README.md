@@ -22,7 +22,7 @@ Before you begin, Ensure that you must have :
 - `selenium` package.
 - Preferably open the repository on jupyter Notebook For better Understanding.
 - Know How to Inspect a Webpage To get Their class_name, id, and XPATH.
-- We will Also Be sending an image, So you can choose Any but we are using this one - https://github.com/SearingShot/WhatsApp_Automation/blob/main/jerry.jpg
+- We will Also Be sending an image, So you can choose Any but we are using this one - https://github.com/SearingShot/WhatsApp_Automation/blob/main/jerry.jpg 😏
 
 ## Steps 
 
