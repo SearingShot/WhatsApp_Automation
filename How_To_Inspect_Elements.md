@@ -1,4 +1,5 @@
 ***To inspect The ELements in The Webpages And get the required ID, CLASS_NAME and XPATH from them, Follow These Steps given below*** :- 
+** **
 ![step-1](https://github.com/SearingShot/WhatsApp_Automation/assets/121299642/9815b8ab-3956-4917-a6ab-c61078ddd981)
   - Right Click On Your mouse and then Click On inspect Element
 ** **
